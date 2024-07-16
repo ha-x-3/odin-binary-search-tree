@@ -1,0 +1,12 @@
+{
+  "name": "odin-binary-search-tree",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The Odin Project's Binary Search Tree activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
